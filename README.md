@@ -2,7 +2,7 @@
 
 Prosty bot Discord napisany w Pythonie, który edukuje użytkowników na temat zmian klimatycznych poprzez rozmowę oraz quiz.
 
-📌 Funkcje
+### 📌 Funkcje
 
 Bot oferuje dwie główne funkcjonalności:
 

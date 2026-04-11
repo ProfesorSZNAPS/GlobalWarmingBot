@@ -38,8 +38,7 @@ Biblioteka discord.py
 pip install discord.py
 
 ##### 🚀 Uruchomienie  
-Skopiuj kod do pliku main.py  
 Wklej swój token bota w miejsce:  
 bot.run("TWÓJ_TOKEN")  
 ##### Uruchom bota:  
-python bot.py  
+python main.py  

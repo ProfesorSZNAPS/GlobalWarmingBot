@@ -12,10 +12,10 @@ Pozwala użytkownikowi wybrać temat związany ze zmianami klimatycznymi i otrzy
 
 ##### Dostępne tematy:
 
-Czym są zmiany klimatyczne
-Jak poważny jest problem i czy dotyczy Polski
-Co powoduje zmiany klimatyczne
-Jak można je powstrzymać
+Czym są zmiany klimatyczne  
+Jak poważny jest problem i czy dotyczy Polski  
+Co powoduje zmiany klimatyczne  
+Jak można je powstrzymać  
 #### 🧠 /quiz
 
 Interaktywny quiz sprawdzający wiedzę użytkownika.

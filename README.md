@@ -21,7 +21,7 @@ Jak można je powstrzymać
 Interaktywny quiz sprawdzający wiedzę użytkownika.
 
 3 pytania jednokrotnego wyboru
-15 sekund na odpowiedź na każde pytanie
+15 sekund na odpowiedź na każde pytanie  
 Punktacja:  
 ✅ poprawna odpowiedź: +1  
 ❌ błędna odpowiedź: -1  

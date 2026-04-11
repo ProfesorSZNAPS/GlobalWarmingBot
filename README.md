@@ -1,4 +1,4 @@
-# Discord Bot – Zmiany Klimatyczne
+# 🌍Discord Bot – Zmiany Klimatyczne
 
 Prosty bot Discord napisany w Pythonie, który edukuje użytkowników na temat zmian klimatycznych poprzez rozmowę oraz quiz.
 

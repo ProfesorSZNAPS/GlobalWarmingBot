@@ -22,7 +22,7 @@ Interaktywny quiz sprawdzający wiedzę użytkownika.
 
 3 pytania jednokrotnego wyboru
 15 sekund na odpowiedź na każde pytanie  
-Punktacja:  
+##### Punktacja:  
 ✅ poprawna odpowiedź: +1  
 ❌ błędna odpowiedź: -1  
 #### ℹ️ /bothelp

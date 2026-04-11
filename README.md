@@ -6,17 +6,17 @@ Prosty bot Discord napisany w Pythonie, który edukuje użytkowników na temat z
 
 Bot oferuje dwie główne funkcjonalności:
 
-💬 /rozmowa
+#### 💬 /rozmowa
 
 Pozwala użytkownikowi wybrać temat związany ze zmianami klimatycznymi i otrzymać krótkie wyjaśnienie.
 
-Dostępne tematy:
+##### Dostępne tematy:
 
 Czym są zmiany klimatyczne
 Jak poważny jest problem i czy dotyczy Polski
 Co powoduje zmiany klimatyczne
 Jak można je powstrzymać
-🧠 /quiz
+#### 🧠 /quiz
 
 Interaktywny quiz sprawdzający wiedzę użytkownika.
 
@@ -25,15 +25,15 @@ Interaktywny quiz sprawdzający wiedzę użytkownika.
 Punktacja:
 ✅ poprawna odpowiedź: +1
 ❌ błędna odpowiedź: -1
-ℹ️ /bothelp
+#### ℹ️ /bothelp
 
 Wyświetla listę dostępnych komend i ich opis.
 
-⚙️ Wymagania
+#### ⚙️ Wymagania
 Python 3.8+
 Biblioteka discord.py
 
-Instalacja zależności:
+##### Instalacja zależności:
 
 pip install discord.py
 🚀 Uruchomienie

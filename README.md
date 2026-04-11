@@ -36,9 +36,10 @@ Biblioteka discord.py
 ##### Instalacja zależności:
 
 pip install discord.py
+
 ##### 🚀 Uruchomienie  
-Skopiuj kod do pliku, np. bot.py  
+Skopiuj kod do pliku main.py  
 Wklej swój token bota w miejsce:  
 bot.run("TWÓJ_TOKEN")  
-Uruchom bota:  
+#####Uruchom bota:  
 python bot.py  

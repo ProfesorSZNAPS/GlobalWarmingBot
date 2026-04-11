@@ -33,7 +33,7 @@ Wyświetla listę dostępnych komend i ich opis.
 Python 3.8+  
 Biblioteka discord.py
 
-##### Instalacja zależności:
+##### Instalacja biblioteki:
 
 pip install discord.py
 

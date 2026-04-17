@@ -30,7 +30,7 @@ Interaktywny quiz sprawdzający wiedzę użytkownika.
 Wyświetla listę dostępnych komend i ich opis.
 
 #### ⚙️ Wymagania
-Python 3.8+  (najlepiej 3.11.9)
+Python 3.8+ (najlepiej 3.11.9)  
 Biblioteka discord.py
 
 ##### Instalacja biblioteki:

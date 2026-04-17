@@ -76,6 +76,9 @@ async def quiz(ctx):
         }
     ]
     wynik = 0
+    maks = len(pytania)
+    
+
     for q in pytania:
         await ctx.send(q["pytanie"] + "( masz 15 sekund na odpowiedz🕒)")
         for odp in q["odpowiedzi"]:
@@ -93,7 +96,13 @@ async def quiz(ctx):
                 await ctx.send(f"Niepoprawna odpowiedź.❌ Poprawna to: {q['poprawna']}")
         except asyncio.TimeoutError:
             await ctx.send("Czas minął! Nie doczekałem się odpowiedzi.🕒")
-
+    total = (wynik / maks) * 100
+    if total > 50 or total == 50:
+        hotdog = "Nie tak źle 😃"
+    elif total > 70 or total == 70:
+        hotdog = "Bardzo dobrze 😎"
+    else:
+        hotdog = "Musisz jescze pocwiczyc 👍"
     await ctx.send(f"Twój wynik: {wynik}/{len(pytania)}")
-
-bot.run("YOUR_TOKEN")
+    await ctx.send(f"{total:.0f}% {hotdog}")
+bot.run("YOUR_TOKEN") 

@@ -91,7 +91,6 @@ async def quiz(ctx):
                 wynik += 1
             else:
                 await ctx.send(f"Niepoprawna odpowiedź.❌ Poprawna to: {q['poprawna']}")
-                wynik -= 1
         except asyncio.TimeoutError:
             await ctx.send("Czas minął! Nie doczekałem się odpowiedzi.🕒")
 
